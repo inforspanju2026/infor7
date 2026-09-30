@@ -1,0 +1,21 @@
+{
+  "short_name": "CBT SMPN 7",
+  "name": "Asesmen SMPN 7 Pasuruan - Sistem CBT Ujian Berbasis Komputer",
+  "description": "Aplikasi CBT untuk simulasi dan pelaksanaan asesmen SMPN 7 Pasuruan",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=192&q=80",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=512&q=80",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "CBT TKA SMP - Sistem Asesmen Ujian Berbasis Komputer",
+  "description": "Aplikasi CBT (Computer Based Test) profesional untuk simulasi dan pelaksanaan asesmen TKA jenjang SMP dengan sinkronisasi Supabase realtime, monitoring proktor, bank soal, dan offline autosave.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
